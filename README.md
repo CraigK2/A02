@@ -11,3 +11,12 @@
 - **Pull** – Used to update a local repository with any changes from a remote repository. 
 - **Remote** – Reference to a version of a repository that is hosted somewhere else; usually it is hosted on a server or platform like Github.  
 - **Repository** – A storage place for files and maintaining all versions created during development.
+
+# Github Sign-Up/Sign-In Link
+(https://github.com/) 
+
+# Git Download Link
+(https://git-scm.com/downloads)
+
+# Webstorm Download Link
+(https://www.jetbrains.com/webstorm/download/#section=windows)
